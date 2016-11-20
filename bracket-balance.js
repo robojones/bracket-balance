@@ -1,5 +1,5 @@
 function countBracketBalance(string, brackets) {
-    bracket = bracket || '{}';
+    brackets = brackets || '{}';
 
     const o = brackets[0];
     const c = brackets[1];
