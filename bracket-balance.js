@@ -8,9 +8,9 @@ function countBracketBalance(string, brackets) {
     let close = 0;
 
     for(let i = 0; i < string.length; i++) {
-        if(i === o) {
+        if(string[i] === o) {
             open++;
-        } else if(i === c) {
+        } else if(string[i] === c) {
             close++;
         }
     }
