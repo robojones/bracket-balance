@@ -1,6 +1,6 @@
 {
   "name": "bracket-balance",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "get the difference between opening and closing brackets in a string",
   "main": "bracket-balance.js",
   "scripts": {
