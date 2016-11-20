@@ -8,7 +8,7 @@
 const bracketBalance = require('bracket-balance');
 let exampleString = '{hello{{ ]}';
 
-bracketBalance(exampleString(exampleString, '{}');
+bracketBalance(exampleString, '{}');
 //returns 2 because there are 2 more opening than closing brackets
 ```
 
