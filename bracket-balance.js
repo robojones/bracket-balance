@@ -17,3 +17,5 @@ function countBracketBalance(string, brackets) {
 
     return open - close;
 }
+
+module.exports = countBracketBalance;

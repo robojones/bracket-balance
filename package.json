@@ -1,0 +1,25 @@
+{
+  "name": "bracket-balance",
+  "version": "1.0.0",
+  "description": "get the difference between opening and closing brackets in a string",
+  "main": "bracket-balance.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robojones/bracket-balance.git"
+  },
+  "keywords": [
+    "bracket",
+    "count",
+    "amount",
+    "difference"
+  ],
+  "author": "robojones",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robojones/bracket-balance/issues"
+  },
+  "homepage": "https://github.com/robojones/bracket-balance#readme"
+}
